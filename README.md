@@ -1,5 +1,4 @@
-### Hi there, I'm Ajay! 
-<img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">
+### Hi there, I'm Ajay! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="25px">
 ![Profile Views](https://komarev.com/ghpvc/?username=your-The-Vector-007)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=The-Vector-007.The-Vector-007)
 
