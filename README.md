@@ -1,4 +1,5 @@
 ### Hi there, I'm Ajay! 👋
+![Profile Views](https://komarev.com/ghpvc/?username=your-The-Vector-007)
 
 ## I am a Full Stack Web Developer & Android Developer.
 
