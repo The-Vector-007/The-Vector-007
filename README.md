@@ -1,5 +1,6 @@
 ### Hi there, I'm Ajay! 👋
 ![Profile Views](https://komarev.com/ghpvc/?username=your-The-Vector-007)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=The-Vector-007.The-Vector-007)
 
 ## I am a Full Stack Web Developer & Android Developer.
 
