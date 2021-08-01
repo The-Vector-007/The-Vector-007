@@ -11,9 +11,9 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="27px" src="https://image.flaticon.com/icons/png/512/1400/1400486.png" />][linkedin]
-[<img align="left" alt="codeSTACKr | Twitter" width="27px" src="https://image.flaticon.com/icons/png/512/1177/1177491.png" />][twitter]
-[<img align="left" alt="codeSTACKr | Instagram" width="27px" src="https://image.flaticon.com/icons/png/512/1177/1177585.png" />][instagram]
+[<img align="left" alt="The-Vector-007 | LinkedIn" width="35px" src="https://image.flaticon.com/icons/png/512/1400/1400486.png" />][linkedin]
+[<img align="left" alt="The-Vector-007 | Twitter" width="35px" src="https://image.flaticon.com/icons/png/512/1177/1177491.png" />][twitter]
+[<img align="left" alt="The-Vector-007 | Instagram" width="35px" src="https://image.flaticon.com/icons/png/512/1177/1177585.png" />][instagram]
 
 <br />
 
