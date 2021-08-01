@@ -16,7 +16,6 @@
 [<img align="left" alt="The-Vector-007 | Instagram" width="32px" src="https://image.flaticon.com/icons/png/512/1177/1177585.png" />][instagram]
 
 <br />
-<br />
 
 ### Languages and Tools:
 
