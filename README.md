@@ -41,8 +41,8 @@
 ## My Github Stats :
 
 <p float="left">
-<img width = "100" src="https://github-readme-stats-vercel-topaz.vercel.app/api?username=The-Vector-007&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Ajay's github stats" />
-<img width = "100" src="https://github-readme-stats-vercel-topaz.vercel.app/api/top-langs/?username=The-Vector-007&theme=tokyonight&hide=css" alt="Top Languages" />
+<img  align = "left"  src="https://github-readme-stats-vercel-topaz.vercel.app/api?username=The-Vector-007&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Ajay's github stats" />
+<img align = "right"  src="https://github-readme-stats-vercel-topaz.vercel.app/api/top-langs/?username=The-Vector-007&theme=tokyonight&hide=css" alt="Top Languages" />
 </p>
 
 
