@@ -40,6 +40,7 @@
 
 <img align="center" src="https://github-readme-stats-vercel-topaz.vercel.app/api?username=The-Vector-007&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Ajay's github stats" />
 
+![Top Langs](https://github-readme-stats-vercel-topaz.vercel.app/api/top-langs/?username=The-Vector-007&theme=tokyonight&hide=css)
 
 [linkedin]: https://www.linkedin.com/in/ajay-singh-007
 [twitter]: https://twitter.com/Aj_Singh007
