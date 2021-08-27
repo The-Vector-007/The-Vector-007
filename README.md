@@ -37,7 +37,7 @@
 <br />
 <br />
 
-### My Github Stats :
+### My Github Stats:
 
 <p float="left">
 <img  align = "left"  src="https://github-readme-stats-vercel-topaz.vercel.app/api?username=The-Vector-007&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Ajay's github stats" />
