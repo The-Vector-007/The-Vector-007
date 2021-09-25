@@ -40,7 +40,7 @@
  ### My Github Stats:
  
 <p float="left">
-<img  align = "left"  src="https://github-readme-stats-vercel-the-vector-007.vercel.app/api?username=The-Vector-007&show_icons=true&theme=material-palenight" alt="Ajay's github stats" />
+<img  align = "left"  src="https://github-readme-stats-vercel-the-vector-007.vercel.app/api?username=The-Vector-007&count_private=true&show_icons=true&theme=material-palenight" alt="Ajay's github stats" />
 <img align = "right"  src="https://github-readme-stats-vercel-the-vector-007.vercel.app/api/top-langs/?username=The-Vector-007&theme=tokyonight&hide=css" alt="Top Languages" />
 </p>
 
