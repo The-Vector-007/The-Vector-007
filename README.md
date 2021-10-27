@@ -39,7 +39,7 @@
 
  ### My Github Stats:
  
- ![GitHub stats](https://github-readme-stats-the-vector-007.vercel.app/api?username=The-Vector-007&count_private=true&show_icons=true&theme=material-palenight" alt="Ajay's github stats)
+ ![GitHub stats](https://github-readme-stats-the-vector-007.vercel.app/api?username=The-Vector-007&count_private=true&show_icons=true&theme=material-palenight)
  ![Top Langs](https://github-readme-stats-the-vector-007.vercel.app/api/top-langs/?username=The-Vector-007&theme=tokyonight&hide=css)
  
 <!-- <img  align = "left"  src="https://github-readme-stats-the-vector-007.vercel.app/api?username=The-Vector-007&count_private=true&show_icons=true&theme=material-palenight" alt="Ajay's github stats" />
