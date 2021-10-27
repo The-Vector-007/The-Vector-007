@@ -38,12 +38,10 @@
 <br />
 
  ### My Github Stats:
- 
  ![GitHub stats](https://github-readme-stats-the-vector-007.vercel.app/api?username=The-Vector-007&count_private=true&show_icons=true&theme=material-palenight)
+ 
  ![Top Langs](https://github-readme-stats-the-vector-007.vercel.app/api/top-langs/?username=The-Vector-007&theme=tokyonight&hide=css)
  
-<!-- <img  align = "left"  src="https://github-readme-stats-the-vector-007.vercel.app/api?username=The-Vector-007&count_private=true&show_icons=true&theme=material-palenight" alt="Ajay's github stats" />
-<img align = "right"  src="https://github-readme-stats-the-vector-007.vercel.app/api/top-langs/?username=The-Vector-007&theme=tokyonight&hide=css" alt="Top Languages" /> -->
 
 [linkedin]: https://www.linkedin.com/in/ajay-singh-007
 [twitter]: https://twitter.com/Aj_Singh007
