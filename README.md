@@ -5,8 +5,8 @@
 ## I am a Full Stack Web Developer & Android Developer.
 
 - 🔭 I am currently working as a SDE Intern @Commudle.
-- 🌱 I’m currently learning Ruby on Rails.
-- 🥅 2021 Goals: Contribute more to Open Source projects.
+- 🌱 I’m currently learning Backend Development.
+- 🥅 2022 Goals: Contribute more to Open Source projects.
 - 🎵 I like to sing in my free time. 
 
 ### Connect with me:
