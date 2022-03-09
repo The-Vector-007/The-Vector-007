@@ -11,8 +11,8 @@
 
 ### Connect with me:
 
-[<img align="left" alt="The-Vector-007 | LinkedIn" width="32px" src="https://image.flaticon.com/icons/png/512/1400/1400486.png" />][linkedin]
-[<img align="left" alt="The-Vector-007 | Twitter" width="32px" src="https://image.flaticon.com/icons/png/512/1177/1177491.png" />][twitter]
+[<img align="left" alt="The-Vector-007 | LinkedIn" width="32px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
+[<img align="left" alt="The-Vector-007 | Twitter" width="32px" src="https://cdn-icons-png.flaticon.com/512/124/124021.png" />][twitter]
 [<img align="left" alt="The-Vector-007 | Instagram" width="32px" src="https://image.flaticon.com/icons/png/512/1177/1177585.png" />][instagram]
 
 <br />
