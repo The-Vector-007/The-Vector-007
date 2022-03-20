@@ -13,7 +13,7 @@
 
 [<img align="left" alt="The-Vector-007 | LinkedIn" width="32px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
 [<img align="left" alt="The-Vector-007 | Twitter" width="32px" src="https://cdn-icons-png.flaticon.com/512/124/124021.png" />][twitter]
-[<img align="left" alt="The-Vector-007 | Instagram" width="32px" src="https://image.flaticon.com/icons/png/512/1177/1177585.png" />][instagram]
+[<img align="left" alt="The-Vector-007 | Instagram" width="32px" src="https://cdn-icons.flaticon.com/png/512/2504/premium/2504918.png?token=exp=1647748843~hmac=c56007e775688078d80ceaac45f8d693" />][instagram]
 
 <br />
 <br />
