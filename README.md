@@ -4,9 +4,9 @@
 
 ## I am a Full Stack Web Developer & Android Developer.
 
-- 🔭 I am currently working as a SDE Intern @Commudle.
+- 🔭 I am a Final Year Undergraduate.
 - 🌱 I’m currently learning Backend Development.
-- 🥅 2022 Goals: Contribute more to Open Source projects.
+- 🥅 2023 Goals: Contribute more to Open Source projects.
 - 🎵 I like to sing in my free time. 
 
 ### Connect with me:
