@@ -1,48 +1,81 @@
-### Hi there, I'm Ajay! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="25px">
-![Profile Views](https://komarev.com/ghpvc/?username=your-The-Vector-007)
-<!-- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=The-Vector-007.The-Vector-007) -->
+# Ajay Singh
+### `// AI Data Engineer · Data Platform Builder`
 
-## I am a Full Stack Web Developer & Android Developer.
+I build large-scale data platforms and intelligent pipelines — from raw ingestion to LLM-ready infrastructure.
+3 years shipping production systems at UBS & Credit Suisse on Azure Databricks, Kafka, and Delta Lake.
+Currently exploring the intersection of data engineering and AI.
 
-- 🔭 I am a Final Year Undergraduate.
-- 🌱 I’m currently learning Backend Development.
-- 🥅 2023 Goals: Contribute more to Open Source projects.
-- 🎵 I like to sing in my free time. 
+<br>
 
-### Connect with me:
+| 50M+ records/day | 8h → 90min | 40% → 90% |
+|:---:|:---:|:---:|
+| pipelines in production | pipeline latency reduction | DR coverage improvement |
 
-[<img align="left" alt="The-Vector-007 | LinkedIn" width="32px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
-[<img align="left" alt="The-Vector-007 | Twitter" width="32px" src="https://cdn-icons-png.flaticon.com/512/124/124021.png" />][twitter]
-[<img align="left" alt="The-Vector-007 | Instagram" width="32px" src="https://img.icons8.com/fluency/344/instagram-new.png" />][instagram]
+---
 
-<br />
-<br />
- 
-### Languages and Tools:
+## ⚡ Core Stack
 
-<img align="left" alt="Visual Studio Code" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Redux" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" />
-<img align="left" alt="Node.js" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="Express.js" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" />
-<img align="left" alt="SQL" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="PostgreSQL" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
-<img align="left" alt="Android" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />
-<img align="left" alt="Kotlin" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" />
-<img align="left" alt="C++" width="32px" src="https://cdn.worldvectorlogo.com/logos/c.svg" />
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![Delta Lake](https://img.shields.io/badge/Delta_Lake-003366?style=flat-square&logo=databricks&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white)
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-<br />
-<br />
+---
 
- ### My Github Stats:
-![GitHub stats](https://github-readme-stats-the-vector-007.vercel.app/api?username=The-Vector-007&count_private=true&show_icons=true&theme=material-palenight)
+## 🔨 Featured Projects
 
-![Top Langs](https://github-readme-stats-the-vector-007.vercel.app/api/top-langs/?username=The-Vector-007&theme=tokyonight&hide=css)
- 
+### [`real-time-data-platform`](#)
+End-to-end streaming pipeline: Kafka → PySpark Structured Streaming → Delta Lake.
+Includes exactly-once semantics, partition tuning, and a Metabase dashboard.
 
-[linkedin]: https://www.linkedin.com/in/ajay-singh-007
-[twitter]: https://twitter.com/Aj_Singh007
-[instagram]: https://www.instagram.com/aj_singh7777
+`Kafka` `PySpark` `Delta Lake` `Docker` `Airflow`
+
+---
+
+### [`llm-data-pipeline`](#)
+RAG pipeline with automated ingestion: PDF/docs → chunking → embeddings → Qdrant vector store → FastAPI query endpoint.
+Orchestrated with Airflow for scheduled re-ingestion.
+
+`Python` `LangChain` `Qdrant` `FastAPI` `Airflow`
+
+---
+
+### [`metadata-catalog-platform`](#)
+Self-service metadata catalog with DCAT/DQV support, data lineage tracking, and a quality rule engine backed by Delta Lake.
+Inspired by enterprise-scale metadata work at UBS.
+
+`FastAPI` `Delta Lake` `DCAT/DQV` `Docker` `PostgreSQL`
+
+---
+
+## 🌱 Currently Building
+
+- Public portfolio of AI data engineering projects
+- Deep dive into dbt + Apache Iceberg for open lakehouse patterns
+- Writing about data platform architecture decisions
+
+---
+
+## 🏆 Highlights
+
+- 🥇 **Winner** — Smart India Hackathon 2022 (National Level), Team Bosons
+- 🏅 **Semi-finalist** — UBS Global Hackathon 2023 & 2024
+- 🎓 **B.E. Information Technology**, Army Institute of Technology, Pune — CGPA 9.47
+
+---
+
+## 📬 Get in Touch
+
+[![Email](https://img.shields.io/badge/ajaysinghrr007@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ajaysinghrr007@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_HANDLE)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://YOUR_PORTFOLIO_URL)
+
+📍 Pune, India
