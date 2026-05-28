@@ -2,7 +2,7 @@
 
 # Ajay Singh
 
-**Software Engineer · Data Platforms & AI**
+**Software Engineer · Data & AI**
 
 Building large-scale data pipelines and lakehouse systems on Azure Databricks.
 Currently focused on the intersection of data engineering and AI.
